@@ -29,7 +29,7 @@ pip install pygame
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/[your-username]/python-snake-game.git
+git clone https://github.com/fmachta/python-snake-game.git
 cd python-snake-game
 ```
 
